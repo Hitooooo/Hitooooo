@@ -3,6 +3,9 @@
 Go For IT
 Emmmmm
 
+- 📫 How to reach me: hitomeng@outlook.com
+- 🌱 I’m currently learning Blockchain
+
 <!--
 **Hitooooo/Hitooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
